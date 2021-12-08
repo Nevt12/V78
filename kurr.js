@@ -2599,8 +2599,8 @@ const serialUser = createSerial(18)
  * Seri:* ${serialUser}
  * Pengguna:* ${_registered.length}
 └❏
-
-*「 Kurz Bot Assistan 」*`
+saya
+*「 Nevt Botz 」  *`
 gbutsan = [
 {buttonId:`menu`,buttonText:{displayText:'MENU'},type:1},
 {buttonId:`donasi`,buttonText:{displayText:'DONASI'},type:1}
