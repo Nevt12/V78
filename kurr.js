@@ -1357,9 +1357,9 @@ reply('http://youtube.com/c/KurrXd')
  _Total Hit : ${cmhit.length}_
  _Total menu : 385_
  _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
- _Nama Bot : Kurz Bot Assistan_
+ _Nama Bot : Nevt Botz _
  _Nama Owner : ${NamaOwner}_
- _Nomor Owner : KurrXd
+ _Nomor Owner : Nevt Ganz
  _Auto Composing : ${settings.autocomposing}_
  _Auto Recording : ${settings.autorecording}_
 └❏
